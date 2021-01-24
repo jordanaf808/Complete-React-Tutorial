@@ -1,0 +1,5 @@
+{
+  "prettier.arrowParens": "avoid",
+  "prettier.jsxBracketSameLine": true,
+  "prettier.singleQuote": true
+}
